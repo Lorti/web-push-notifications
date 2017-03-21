@@ -1,0 +1,5 @@
+node_modules
+presentation
+npm-debug.log
+/client.js
+/service-worker.js
